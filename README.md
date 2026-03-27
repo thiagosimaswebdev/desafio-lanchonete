@@ -3,6 +3,7 @@
 Projeto de modelagem e implementação de banco de dados para um sistema de pedidos (estilo lanchonete), utilizando SQL e boas práticas de relacionamento entre tabelas.
 
 ---
+Link modelagem: https://dbdiagram.io/d/69bb1d56fb2db18e3bb3fbbb
 
 ## 📌 Objetivo
 
